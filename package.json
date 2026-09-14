@@ -1,8 +1,1 @@
-{
-  "name": "fahm-al-tibb",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Fahm Al-Tibb mobile-first medical oral and practical revision bank",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
+{"name":"fahm-al-tibb","version":"2.0.0","private":true,"description":"Fahm Al-Tibb mobile-first anatomy study bank","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
